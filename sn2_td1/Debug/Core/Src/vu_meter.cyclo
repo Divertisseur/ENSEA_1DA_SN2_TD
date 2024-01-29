@@ -1,0 +1,5 @@
+../Core/Src/vu_meter.c:10:5:vu_init	1
+../Core/Src/vu_meter.c:56:5:vu_led	2
+../Core/Src/vu_meter.c:78:5:vu_percent	4
+../Core/Src/vu_meter.c:96:5:vu_blink	6
+../Core/Src/vu_meter.c:130:6:vu_blink_red	2
